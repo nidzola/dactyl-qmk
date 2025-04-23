@@ -1,7 +1,6 @@
 Update config.h
 
-- unzip the firmware and run commands in it
-- or use `qmk setup` check the official docs
+- use `qmk setup` check the official docs
 - set `#define SPLIT_USB_DETECT` to enable proper usb detection
 - TRS wiring both halves the same PIN 3 for data, vcc and gnd
 - flash with qmk software
